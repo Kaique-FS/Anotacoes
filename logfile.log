@@ -1,0 +1,10 @@
+2020-01-20 11:59:22,367 INFO  [Acao] Cliclou no botão de login 
+2020-01-20 12:04:53,749 INFO  [Acao] Cliclou no botão de login 
+2020-01-20 12:04:53,922 INFO  [Acao] Inseriu usuario valido 
+2020-01-20 12:04:54,350 INFO  [Acao] Inseriu senha valida 
+2020-01-20 12:04:54,468 INFO  [Acao] Realizou Login 
+2020-01-20 12:04:58,355 INFO  [Acao] Clicou em 'Tablets' + print 
+2020-01-20 12:04:59,279 INFO  [Acao] escolheu produto + print  
+2020-01-20 12:05:00,001 INFO  [Acao] cor + print 
+2020-01-20 12:05:00,697 INFO  [Acao] adicionou ao carrinho + print 
+2020-01-20 12:05:04,043 INFO  [Acao] Tirou print e fechou navegador 

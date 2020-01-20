@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21967" started-at="2020-01-20T12:04:42 BRT" finished-at="2020-01-20T12:05:04 BRT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21967" started-at="2020-01-20T12:04:42 BRT" finished-at="2020-01-20T12:05:04 BRT">
+      <class name="br.com.rsi.hub.projetotdd.pageobjects.SearchProductHome">
+        <test-method status="PASS" signature="inicializa()[pri:0, instance:br.com.rsi.hub.projetotdd.pageobjects.SearchProductHome@4d41cee]" name="inicializa" is-config="true" duration-ms="11375" started-at="2020-01-20T12:04:42 BRT" finished-at="2020-01-20T12:04:53 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicializa -->
+        <test-method status="PASS" signature="Execute()[pri:0, instance:br.com.rsi.hub.projetotdd.pageobjects.SearchProductHome@4d41cee]" name="Execute" duration-ms="9782" started-at="2020-01-20T12:04:53 BRT" finished-at="2020-01-20T12:05:03 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Execute -->
+        <test-method status="PASS" signature="Finaliza()[pri:0, instance:br.com.rsi.hub.projetotdd.pageobjects.SearchProductHome@4d41cee]" name="Finaliza" is-config="true" duration-ms="747" started-at="2020-01-20T12:05:03 BRT" finished-at="2020-01-20T12:05:04 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finaliza -->
+      </class> <!-- br.com.rsi.hub.projetotdd.pageobjects.SearchProductHome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
